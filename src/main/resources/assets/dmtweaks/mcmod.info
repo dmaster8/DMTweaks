@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dmtweaks",
+  "name": "DMTweaks",
+  "description": "Tweaks mod for dmaster's",
+  "version": "0.1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dmaster8"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,10 @@
+#Tab
+itemGroup.tabDMTweaks=DMTWeaks
+#Items
+item.teraGear.name=Terrasteel Gear
+item.lWoodGear.name=Livingwood Gear
+item.lRockGear.name=Livingrock Gear
+item.manaGear.name=Manasteel Gear
+#Blocks
+tile.ccWolf.name=Companion Cube Wolf
+tile.invGlass.name=Invisible Glass
