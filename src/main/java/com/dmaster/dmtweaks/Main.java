@@ -18,7 +18,7 @@ import net.minecraft.block.Block;
 public class Main {
     public static final String MODID = "dmtweaks";
     public static final String NAME = "DMTweaks";
-    public static final String VERSION = "0.1.0";
+    public static final String VERSION = "1.0.0";
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
