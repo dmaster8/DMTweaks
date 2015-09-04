@@ -17,7 +17,7 @@ public class Blocks {
     }
 
     public static void getBlocks(){
-        invGlass = (baseBlock)new baseBlock().setBlockUnbreakable().setBlockName("invGlass").setBlockTextureName(Main.MODID + ":/invGlass");
+        invGlass = (baseBlock)new baseBlock().setBlockUnbreakable().setBlockName("invGlass").setBlockTextureName(Main.MODID + ":invGlass");
         GameRegistry.registerBlock(invGlass, invGlass.getUnlocalizedName());
 
         if (Config.ccWolf){

@@ -26,7 +26,7 @@ private IIcon field_150115_b;
             super(Material.cloth);
             setCreativeTab(Tab.tabDMTweaks);
             setBlockName("ccWolf");
-            setBlockTextureName(Main.MODID + ":/ccWolf");
+            setBlockTextureName(Main.MODID + ":ccWolf");
             setHardness(1);
             setStepSound(soundTypeCloth);
         }
